@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shaunak [@ieeetinu], a freelance Embedded System Engineer.
+- 👋 Hi, I’m Shaunak [@ieeetinu], a Freelance Embedded System Design Engineer.
 - 👀 I’m interested in Embedded Systems.
 - 🌱 I’m currently learning how to use Github for Embedded Systems.
 - 💞️ I’m looking to collaborate on Embedded Systems related work.
